@@ -16,6 +16,6 @@
     "vue-router": "^4.2.5"
   },
   "dependencies": {
-    "@skoenfeld/i18n-layer": "0.0.3"
+    "@skoenfeld/i18n-layer": "0.0.5"
   }
 }
